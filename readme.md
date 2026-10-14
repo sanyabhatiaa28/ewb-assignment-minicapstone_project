@@ -40,5 +40,3 @@ Features:
 - `assignments/` — Six JavaScript assignments
 - `project/` — Dashboard HTML, CSS and JavaScript
 
-## Author
-JavaScript Curriculum Practical Work
